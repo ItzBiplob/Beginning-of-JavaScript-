@@ -8,5 +8,5 @@ const Project = {
     Following: 97,
     isFollow: true
     }
-    console.log(typeof Project)
+    console.log(Project)
     
